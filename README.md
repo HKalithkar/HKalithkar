@@ -3,14 +3,14 @@
 
 Live links of my projects
 
-    Portfolio Demo-2: https://hkalithkar.github.io/Portfolio_Demo2/
+1) Portfolio Demo-1: https://hkalithkar.github.io/PrepInstaFSD_Portfolio/
 
-    Facebook Profile Header: https://hkalithkar.github.io/Facebook_ProfileHeader/
+2) Portfolio Demo-2: https://hkalithkar.github.io/Portfolio_Demo2/
 
-    Intro Section with Dropdown Navigation: https://hkalithkar.github.io/Intro_Section_With_Dropdown_Navigation/
+3) Facebook Profile Header: https://hkalithkar.github.io/Facebook_ProfileHeader/
 
-    Portfolio Demo-1: https://hkalithkar.github.io/PrepInstaFSD_Portfolio/
+4) Intro Section with Dropdown Navigation: https://hkalithkar.github.io/Intro_Section_With_Dropdown_Navigation/
 
-    Chhatrapati Shivaji Maharaj Tribute Page: https://hkalithkar.github.io/PrepInstaFSD_TributePage/
+5) NavBar like Facebook: https://hkalithkar.github.io/Facebook_Navigation/
 
-    NavBar like Facebook: https://hkalithkar.github.io/Facebook_Navigation/
+6) Chhatrapati Shivaji Maharaj Tribute Page: https://hkalithkar.github.io/PrepInstaFSD_TributePage/
