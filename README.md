@@ -1,16 +1,16 @@
 ### Hi there 👋
+### I am Sai Harshith Kalithkar
 
-<!--
-**HKalithkar/HKalithkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Live links of my projects
 
-Here are some ideas to get you started:
+    Portfolio Demo-2: https://hkalithkar.github.io/Portfolio_Demo2/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Facebook Profile Header: https://hkalithkar.github.io/Facebook_ProfileHeader/
+
+    Intro Section with Dropdown Navigation: https://hkalithkar.github.io/Intro_Section_With_Dropdown_Navigation/
+
+    Portfolio Demo-1: https://hkalithkar.github.io/PrepInstaFSD_Portfolio/
+
+    Chhatrapati Shivaji Maharaj Tribute Page: https://hkalithkar.github.io/PrepInstaFSD_TributePage/
+
+    NavBar like Facebook: https://hkalithkar.github.io/Facebook_Navigation/
